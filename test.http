@@ -1,6 +1,6 @@
 
 ### POST: Create a new location
-POST http://localhost:3000/api/locations
+POST http://localhost:3000/locations
 Content-Type: application/json
 
 {

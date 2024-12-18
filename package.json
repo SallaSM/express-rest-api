@@ -34,6 +34,7 @@
     },
     "description": "A full-stack application demonstrating the software development lifecycle with React, Node.js, Express, SQLite3, Docker, and CI/CD using GitHub Actions, deployed on Render.",
     "dependencies": {
-        "express": "^4.21.2"
+        "express": "^4.21.2",
+        "express-validator": "^7.2.0"
     }
 }
